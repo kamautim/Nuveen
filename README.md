@@ -2,6 +2,7 @@
 Nuveen Sales Analysis and Forecasting
 
 Background
+
 Nuveen is a mutual fund company and a wholly owned subsidiary of financial planning firm TIAA headquartered in Chicago, with offices in major cities in the US and across the world. Nuveen is in the business of marketing and selling mutual funds to investors through investment professionals such as brokers, financial planners, and financial advisors. 
 Currently the market is highly competitive, as of 2018 there were 9,599 mutual funds in existence in the US. Sales costs are also expensive since wholesalers are highly compensated.
 
